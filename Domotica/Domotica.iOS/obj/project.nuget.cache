@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "qeabrTJd/hTuQYDQsvL2s0IufBkWnky9X2uReBCkZ7sk5yz8KJddz0HDIWg2vQtNr7tO9oEXtdu7MX8YWRIAMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica.iOS\\Domotica.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marco\\.nuget\\packages\\m2mqttclientdotnetcore\\1.0.1\\m2mqttclientdotnetcore.1.0.1.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\nuget.commandline\\3.5.0\\nuget.commandline.3.5.0.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\system.collections.nongeneric\\4.0.1\\system.collections.nongeneric.4.0.1.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\system.net.nameresolution\\4.0.0\\system.net.nameresolution.4.0.0.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\system.net.security\\4.0.0\\system.net.security.4.0.0.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\system.net.sockets\\4.3.0\\system.net.sockets.4.3.0.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.1.0\\system.security.cryptography.x509certificates.4.1.0.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\system.threading.thread\\4.0.0\\system.threading.thread.4.0.0.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Marco\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

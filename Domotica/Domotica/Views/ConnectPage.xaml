@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Domotica.Views.ConnectPage"
+             xmlns:vm="clr-namespace:Domotica.ViewModels"
+             Title="{Binding Title}">
+
+    <ContentPage.BindingContext>
+        <vm:ConnectViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <Grid BackgroundColor="{StaticResource Accent}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackLayout BackgroundColor="{StaticResource Accent}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
+                    <Image Source="casa.png" VerticalOptions="Center" HeightRequest="64" />
+                </ContentView>
+            </StackLayout>
+        </StackLayout>
+        
+        <ScrollView Grid.Row="1">
+
+
+            <StackLayout BackgroundColor="{StaticResource Accent}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+                <Label Text="Introduce a continuación la IP local del sistema domótico:" TextColor="White" FontSize="21" Margin="37,20,37,0"/>
+
+                <Entry x:Name="IPTB" Placeholder="IP: " TextColor="#007AEF" BackgroundColor="#AAFFFFFF" FontSize="25"  PlaceholderColor="#008AFF" TextChanged="IPTB_TextChanged"/>
+                <!--<Button x:Name="VerifyConnectionBtn"  IsVisible=" false"  AbsoluteLayout.LayoutFlags="All" HorizontalOptions="End" VerticalOptions="End" Text="?" Padding="15" BackgroundColor="White" CornerRadius="17" FontSize="27" FontAttributes="Bold" Clicked="VerifyConnectionBtn_Clicked" TextColor="#008AFF"/> -->
+                <Button x:Name="VerifyConnectionBtn" Text="Conectar" TextColor="Black"  BackgroundColor="White" CornerRadius="7" FontSize="27" FontAttributes="Bold" Margin="37,15,37,0" IsVisible="false" Clicked="VerifyConnectionBtn_Clicked"/>
+
+
+            </StackLayout>
+            
+
+        </ScrollView>
+        
+        
+        
+    </Grid>
+
+</ContentPage>
