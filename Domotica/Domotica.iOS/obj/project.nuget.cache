@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qeabrTJd/hTuQYDQsvL2s0IufBkWnky9X2uReBCkZ7sk5yz8KJddz0HDIWg2vQtNr7tO9oEXtdu7MX8YWRIAMQ==",
+  "dgSpecHash": "OtRKdMODG+vfl570Ndxnsg8QOy0u2qGb9Lld/8zc7tf0NfmnL/e3pXzlRjbVP1QxDvCJEuzpjGzfqYXfhzJwfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica.iOS\\Domotica.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica.iOS\\Domotica.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marco\\.nuget\\packages\\m2mqttclientdotnetcore\\1.0.1\\m2mqttclientdotnetcore.1.0.1.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512",

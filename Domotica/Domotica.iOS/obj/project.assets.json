@@ -1774,11 +1774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica.iOS\\Domotica.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica.iOS\\Domotica.iOS.csproj",
       "projectName": "Domotica.iOS",
-      "projectPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica.iOS\\Domotica.iOS.csproj",
+      "projectPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica.iOS\\Domotica.iOS.csproj",
       "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1799,8 +1799,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica\\Domotica.csproj": {
-              "projectPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica\\Domotica.csproj"
+            "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica\\Domotica.csproj": {
+              "projectPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica\\Domotica.csproj"
             }
           }
         }

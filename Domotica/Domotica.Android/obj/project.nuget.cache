@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wPp0Kg/ZMBW0nYjgLixtgf6ll698faM6jtJHKCYwXrqYmr+h91HlO9LFlKOjbnNki2urGxz7XP51nc1LF73CGg==",
+  "dgSpecHash": "WSSCmxW9SS0D5j8Buv/n98kp/MY9LatopMqI4qimygEAcQGU1SHn1oHPfvCvZ8LWQlX28H2CAYzM8hL5mHn8Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica.Android\\Domotica.Android.csproj",
+  "projectFilePath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica.Android\\Domotica.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marco\\.nuget\\packages\\m2mqttclientdotnetcore\\1.0.1\\m2mqttclientdotnetcore.1.0.1.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512",

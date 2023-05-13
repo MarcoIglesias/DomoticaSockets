@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aD4IpnVbwip6JoOWbpd68z6cX0PBJNXtTxqeDBhHkqp6yjn/8Vm8QgE6NnvaORqeCX2EZAkY9HhE/VN9q1/YNw==",
+  "dgSpecHash": "NBlI/C/rtIk79HyVzpYnOeVO34WMWIx1zlYYtJKmOdaSuNe6ipl4gzvVfFTM8TioF60UgVtK4AJhFPVu7Uhxdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica\\Domotica.csproj",
+  "projectFilePath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica\\Domotica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marco\\.nuget\\packages\\m2mqttclientdotnetcore\\1.0.1\\m2mqttclientdotnetcore.1.0.1.nupkg.sha512",
     "C:\\Users\\Marco\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

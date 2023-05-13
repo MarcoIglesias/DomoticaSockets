@@ -3847,11 +3847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica.Android\\Domotica.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica.Android\\Domotica.Android.csproj",
       "projectName": "Domotica.Android",
-      "projectPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica.Android\\Domotica.Android.csproj",
+      "projectPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica.Android\\Domotica.Android.csproj",
       "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica.Android\\obj\\",
+      "outputPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3872,8 +3872,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica\\Domotica.csproj": {
-              "projectPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\VentanaSockets\\Domotica\\Domotica\\Domotica\\Domotica.csproj"
+            "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica\\Domotica.csproj": {
+              "projectPath": "C:\\Users\\Marco\\Desktop\\MUAR\\Domotica\\GITHUBSOCKETS\\DomoticaSockets\\Domotica\\Domotica\\Domotica.csproj"
             }
           }
         }
